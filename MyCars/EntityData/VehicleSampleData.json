@@ -1,0 +1,320 @@
+[
+  {
+    "VinNumber": "IBADE638VBW51932",
+
+    "LicensePlateNumber": "AZM9590",
+
+    "DriverName": "Karthik",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",    
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -76.8718412865,
+
+        "Longitude": 38.9477848558
+      }
+    }
+  },
+  {
+
+    "VinNumber": "ABCDE638VBW51997",
+
+    "LicensePlateNumber": "ABC1610",
+
+    "DriverName": "Swethaa",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -76.8718412865,
+        "Longitude": 38.9477848558
+      }
+    }
+  },
+  {
+
+    "VinNumber": "I9434E638VBW5198",
+
+    "LicensePlateNumber": "BIC9434",
+
+    "DriverName": "Regina",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -77.0050856513,
+        "Longitude": 38.8764810849
+      }
+    }
+  },
+  {
+
+    "VinNumber": "MC1DE638VBW51983",
+
+    "LicensePlateNumber": "AZM1997",
+
+    "DriverName": "Monica",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -77.0397008272,
+        "Longitude": 38.9032019462
+      }
+    }
+  },
+  {
+
+    "VinNumber": "DE638VIBABW51984",
+
+    "LicensePlateNumber": "BIC1245",
+
+    "DriverName": "Ross",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -77.0708743893,
+        "Longitude": 38.8004254497
+      }
+    }
+  },
+  {
+
+    "VinNumber": "ADE638VBWIB51985",
+
+    "LicensePlateNumber": "AZM8956",
+
+    "DriverName": "Chandler",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -76.9558815078,
+
+        "Longitude": 38.9653854458
+      }
+    }
+  },
+  {
+
+    "VinNumber": "IBADE638VBW51985",
+
+    "LicensePlateNumber": "BIC5674",
+
+    "DriverName": "Joey",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -76.9558815078,
+        "Longitude": 38.9653854458
+      }
+    }
+  },
+  {
+
+    "VinNumber": "IBADE638VBW51986",
+
+    "LicensePlateNumber": "AZM1563",
+
+    "DriverName": "Keerthy",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -77.1568830199,
+
+        "Longitude": 38.8859531663
+      }
+    }
+  },
+  {
+
+    "VinNumber": "C638VBW51986IBAD1",
+
+    "LicensePlateNumber": "BIC2358",
+
+    "DriverName": "Phoebe",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -77.1568830199,
+
+        "Longitude": 38.8859531663
+      }
+    }
+  },
+  {
+
+    "VinNumber": "ZMADE638VBW51986",
+
+    "LicensePlateNumber": "AZM3216",
+
+    "DriverName": "Siva",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -77.1568830199,
+
+        "Longitude": 38.8859531663
+      }
+    }
+  },
+  {
+
+    "VinNumber": "BIC59258VBW51987",
+
+    "LicensePlateNumber": "AAT2316",
+
+    "DriverName": "Chaithanya",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -77.1568830200,
+
+        "Longitude": 38.8859531673
+      }
+    }
+  },
+  {
+
+    "VinNumber": "DPADE638VBW51988",
+
+    "LicensePlateNumber": "DP1549",
+
+    "DriverName": "Jeni",
+
+    "VehicleModel": "2023",
+
+    "CustomerName": "Raghupathy",
+
+    "Office": "cps",
+
+    "Status": {
+      "Ignition": 1,
+
+      "Speed": 100,
+
+      "Location": {
+
+        "Latitude": -76.1568830200,
+
+        "Longitude": 38.8859531773
+      }
+    }
+  }
+]
