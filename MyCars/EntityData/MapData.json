@@ -797,6 +797,158 @@
         "Speed": "56MPH"
 
       }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.950584,
+          39.419220
+
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "DNJ95E638VBW51932",
+
+        "LicensePlateNumber": "DNN295",
+
+        "DriverName": "Ramya",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "56MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.750685,
+          39.419220
+
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "SNP95E638VBW51932",
+
+        "LicensePlateNumber": "DNN295",
+
+        "DriverName": "Sandeep",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "56MPH"
+
+      }
+    },
+
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.850686,
+          39.419220
+
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "SNJ95E638VBW51932",
+
+        "LicensePlateNumber": "00DNN295",
+
+        "DriverName": "Sanjay",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "70MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.650687,
+          39.419220
+
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "SNJ95E638VBW51932",
+
+        "LicensePlateNumber": "00DNN295",
+
+        "DriverName": "Shankar",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "70MPH"
+
+      }
+    },
+
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.921387,
+          36.084621
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "SLV95E638VBW51932",
+
+        "LicensePlateNumber": "11DNN295",
+
+        "DriverName": "Selvi",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "70MPH"
+
+      }
+    },
+
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.821387,
+          36.184621
+
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "DH95E638VBW51932",
+
+        "LicensePlateNumber": "22DNN295",
+
+        "DriverName": "Sandhiya",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "70MPH"
+
+      }
     }
   ]
 }

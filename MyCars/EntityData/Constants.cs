@@ -14,5 +14,8 @@ namespace MyCars.EntityData
         public const string SaveEditedVehicle = "SaveEditedVehicle";
         
         public const string AddVehicle = "AddVehicle";
+        
+        public const string AuthenticateCustomer = "AuthenticateCustomer";       
+
     }
 }

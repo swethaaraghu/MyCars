@@ -16,7 +16,8 @@ namespace MyCars.EntityData
         public string VehicleId { get; set; }
         public string Office { get; set; }
         public VehicleStatus Status { get; set; }
-
+        public int Count { get; set; }
+        public string SearchText { get; set; }
 
     }
 }
