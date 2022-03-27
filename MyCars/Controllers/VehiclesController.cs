@@ -63,9 +63,11 @@ namespace MyCars.Controllers
         [HttpPost(ConstantsData.GetMapData)]
         public string GetMapData([FromBody]string customerName)
         {
-            StreamReader r = new StreamReader("EntityData/MapData.json");
+            StreamReader r = null;
             try
             {
+                r = new StreamReader("EntityData/MapData.json");
+
                 string jsonString = r.ReadToEnd();
 
                 return jsonString;
@@ -76,7 +78,8 @@ namespace MyCars.Controllers
             }
             finally
             {
-                r.Close();
+                if(r!=null)
+                    r.Close();
             }
         }
 
@@ -120,16 +123,21 @@ namespace MyCars.Controllers
         [HttpPatch(ConstantsData.SaveEditedVehicle)]
         public int SaveEditedVehicle([FromBody] string jsonData)
         {
-            StreamReader r = new StreamReader("EntityData/VehicleSampleData.json");
+            StreamReader r = null;
             TextWriter writer = null;
 
             try
-            { 
+            {
+                r = new StreamReader("EntityData/VehicleSampleData.json");
+
                 Vehicle vehicles = JsonConvert.DeserializeObject<Vehicle>(jsonData);
 
                 string jsonString = r.ReadToEnd();
+
                 List<Vehicle> lstVehicles = JsonConvert.DeserializeObject<List<Vehicle>>(jsonString);
+                
                 r.Close();
+                
                 foreach (var item in lstVehicles.Where(w => w.VinNumber == vehicles.VinNumber))
                 {
                     item.Office = vehicles.Office;
@@ -146,7 +154,7 @@ namespace MyCars.Controllers
 
                 return 1;
             }
-            catch (Exception ex)
+            catch
             {
                 return 0;
             }
@@ -163,12 +171,14 @@ namespace MyCars.Controllers
         [HttpPatch(ConstantsData.AddVehicle)]
         public int AddVehicle([FromBody] string jsonData)
         {
-            StreamReader r = new StreamReader("EntityData/VehicleSampleData.json");
+            StreamReader r = null;
 
             TextWriter writer = null;
 
             try
             {
+                r = new StreamReader("EntityData/VehicleSampleData.json");
+
                 Vehicle vehicles = JsonConvert.DeserializeObject<Vehicle>(jsonData);
 
                 string jsonString = r.ReadToEnd();
@@ -199,7 +209,7 @@ namespace MyCars.Controllers
 
                 return 1;
             }
-            catch (Exception ex)
+            catch
             {
                 return 0;
             }
@@ -236,7 +246,7 @@ namespace MyCars.Controllers
                 else
                     return 0;
             }
-            catch (Exception ex)
+            catch
             {
                 return 0;
             }

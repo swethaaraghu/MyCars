@@ -2,11 +2,11 @@
   {
     "VinNumber": "IBADE638VBW51932",
     "LicensePlateNumber": "  KAN9590",
-    "DriverName": "Kannan",
+    "DriverName": "Swethaa Raghu",
     "VehicleModel": "2023",
     "CustomerName": "Raghupathy",
     "VehicleId": null,
-    "Office": "  aaa",
+    "Office": "   aaa",
     "Status": {
       "Ignition": true,
       "Speed": 99,
@@ -21,11 +21,11 @@
   {
     "VinNumber": "ABCDE638VBW51997",
     "LicensePlateNumber": "  ACB16101",
-    "DriverName": "Swethaa R",
+    "DriverName": "RajMohan",
     "VehicleModel": "2023",
     "CustomerName": "Raghupathy",
     "VehicleId": null,
-    "Office": " afv",
+    "Office": "  afv",
     "Status": {
       "Ignition": true,
       "Speed": 89,
@@ -1219,6 +1219,44 @@
     "VinNumber": "VIN123AiII1234566",
     "LicensePlateNumber": "AWER789",
     "DriverName": "Arjun",
+    "VehicleModel": null,
+    "CustomerName": "raghupathy",
+    "VehicleId": null,
+    "Office": "CHN",
+    "Status": {
+      "Ignition": true,
+      "Speed": 120,
+      "Location": {
+        "Latitude": 36.89589,
+        "Longitude": 0.0
+      }
+    },
+    "Count": 0,
+    "SearchText": null
+  },
+  {
+    "VinNumber": "Q1111111111111111",
+    "LicensePlateNumber": "AWE12356",
+    "DriverName": "Shankar1",
+    "VehicleModel": null,
+    "CustomerName": "raghupathy",
+    "VehicleId": null,
+    "Office": "CHn",
+    "Status": {
+      "Ignition": true,
+      "Speed": 120,
+      "Location": {
+        "Latitude": 36.89589,
+        "Longitude": 0.0
+      }
+    },
+    "Count": 0,
+    "SearchText": null
+  },
+  {
+    "VinNumber": "ASE11111111111111",
+    "LicensePlateNumber": "SWED234",
+    "DriverName": "Afra Raja",
     "VehicleModel": null,
     "CustomerName": "raghupathy",
     "VehicleId": null,
