@@ -7,7 +7,13 @@ namespace MyCars.EntityData
 {
     public class VehicleLocation
     {
-        public float Latitude { get; set; }
-        public float Longitude { get; set; }
+        public VehicleLocation()
+        {
+            Latitude = 77.89589;
+
+            Latitude = 36.89589;
+        }
+        public double Latitude { get; set; }
+        public double Longitude { get; set; }
     }
 }

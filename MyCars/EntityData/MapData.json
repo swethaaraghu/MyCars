@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
-  "features": [  
-   
+  "features": [
+
     {
       "geometry": {
         "type": "Point",
@@ -20,7 +20,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "100MPH"
       }
     },
     {
@@ -41,7 +43,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "80MPH"
       }
     },
     {
@@ -62,7 +66,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "85MPH"
       }
     },
     {
@@ -83,7 +89,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "70MPH"
       }
     },
     {
@@ -104,7 +112,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "50MPH"
       }
     },
     {
@@ -125,7 +135,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "40MPH"
       }
     },
     {
@@ -146,7 +158,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "90MPH"
       }
     },
     {
@@ -167,7 +181,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "150MPH"
       }
     },
     {
@@ -188,7 +204,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "70MPH"
       }
     },
     {
@@ -209,7 +227,9 @@
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "80MPH"
       }
     },
     {
@@ -224,13 +244,557 @@
       "properties": {
         "VinNumber": "IBADE638VBW51932",
 
-        "LicensePlateNumber": "TN 75 AA 5925",
+        "LicensePlateNumber": "TAA 5925",
 
         "DriverName": "Karthik",
 
         "VehicleModel": "2023",
 
-        "CustomerName": "Raghupathy"
+        "CustomerName": "Raghupathy",
+
+        "Speed": "110MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8718412865,
+          39.9477848558
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "TAADE638VBW51932",
+
+        "LicensePlateNumber": "TAA595",
+
+        "DriverName": "Karthik",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "140MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8718412865,
+          37.9477848558
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "T295E638VBW51932",
+
+        "LicensePlateNumber": "TAP295",
+
+        "DriverName": "Priya",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "68MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8718412865,
+          37.9477848558
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "AT295E638VBW51932",
+
+        "LicensePlateNumber": "TAP295",
+
+        "DriverName": "APriya",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "78MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8718412865,
+          37.9477848558
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "RAJ95E638VBW51932",
+
+        "LicensePlateNumber": "RAJ295",
+
+        "DriverName": "Raja",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "98MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8718412875,
+          -37.9477848658
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "RNJ95E638VBW51932",
+
+        "LicensePlateNumber": "RNN295",
+
+        "DriverName": "Rani",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "134MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3718412875,
+          37.1477848658
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "DNJ95E638VBW51932",
+
+        "LicensePlateNumber": "DNN295",
+
+        "DriverName": "Dhana",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "56MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3718412975,
+          37.1477848657
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "ABCDE638VBW51997",
+
+        "LicensePlateNumber": "ABC1610",
+
+        "DriverName": "Swethaa",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "100MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3718412875,
+          37.8477848658
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "I9434E638VBW5198",
+
+        "LicensePlateNumber": "BIC9434",
+
+        "DriverName": "Regina",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "80MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3718412875,
+          37.84778486589
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "MC1DE638VBW51983",
+
+        "LicensePlateNumber": "AZM1997",
+
+        "DriverName": "Monica",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "85MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3718412875,
+          37.84778486589
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "DE638VIBABW51984",
+
+        "LicensePlateNumber": "BIC1245",
+
+        "DriverName": "Ross",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "70MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3718412875,
+          37.84778486589
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "ADE638VBWIB51985",
+
+        "LicensePlateNumber": "AZM8956",
+
+        "DriverName": "Chandler",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "50MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3718412875,
+          37.8478486789
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "C638VBW51986IBAD1",
+
+        "LicensePlateNumber": "BIC2358",
+
+        "DriverName": "Phoebe",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "40MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0608112185,
+          38.8065861272
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "BIC59258VBW51987",
+
+        "LicensePlateNumber": "BIC5925",
+
+        "DriverName": "Chaithanya",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "90MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.995936976,
+          38.9210596991
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "DPADE638VBW51988",
+
+        "LicensePlateNumber": "DP1549",
+
+        "DriverName": "Jeni",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "150MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1679702804,
+          38.76652189236
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "IBADE638VBW51989",
+
+        "LicensePlateNumber": "TN 75 AA 5925",
+
+        "DriverName": "Shantha",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "70MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9318702589,
+          38.8439645444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "IBADE638VBW51990",
+
+        "LicensePlateNumber": "TN 75 AA 5925",
+
+        "DriverName": "Swethaa",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "80MPH"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.871841865,
+          38.9477848518
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "IBADE638VBW51932",
+
+        "LicensePlateNumber": "TAA 5925",
+
+        "DriverName": "Karthik",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "110MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8718412865,
+          39.9477848158
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "TAADE638VBW51932",
+
+        "LicensePlateNumber": "TAA595",
+
+        "DriverName": "Karthik",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "140MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8718422865,
+          37.9477848458
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "T295E638VBW51932",
+
+        "LicensePlateNumber": "TAP295",
+
+        "DriverName": "Priya",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "68MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8718412864,
+          37.9477848551
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "AT295E638VBW51932",
+
+        "LicensePlateNumber": "TAP295",
+
+        "DriverName": "APriya",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "78MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8718412864,
+          37.9477848557
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "RAJ95E638VBW51932",
+
+        "LicensePlateNumber": "RAJ295",
+
+        "DriverName": "Raja",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "98MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8718412875,
+          -37.9477848758
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "RNJ95E638VBW51932",
+
+        "LicensePlateNumber": "RNN295",
+
+        "DriverName": "Rani",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "134MPH"
+
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8718413875,
+          37.9477878658
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "VinNumber": "DNJ95E638VBW51932",
+
+        "LicensePlateNumber": "DNN295",
+
+        "DriverName": "Dhana",
+
+        "VehicleModel": "2023",
+
+        "CustomerName": "Raghupathy",
+
+        "Speed": "56MPH"
 
       }
     }
